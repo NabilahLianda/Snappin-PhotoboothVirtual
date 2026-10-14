@@ -5,6 +5,7 @@
   "packageManager": "pnpm@12.3.4",
   "scripts": {
     "dev": "next dev",
+    "dev:https": "next dev --experimental-https",
     "build": "next build",
     "start": "next start"
   },
@@ -15,6 +16,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^1.16.0",
     "next": "16.4.0",
+    "peerjs": "^1.5.5",
     "react": "^19",
     "react-dom": "^19",
     "shadcn": "^4.11.0",
