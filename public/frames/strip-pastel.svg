@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1800" viewBox="0 0 600 1800">
+  <path fill="#e6e0ff" fill-rule="evenodd" d="M0,0 H600 V1800 H0 Z M48,40 H552 Q560,40 560,48 V412 Q560,420 552,420 H48 Q40,420 40,412 V48 Q40,40 48,40 Z M48,440 H552 Q560,440 560,448 V812 Q560,820 552,820 H48 Q40,820 40,812 V448 Q40,440 48,440 Z M48,840 H552 Q560,840 560,848 V1212 Q560,1220 552,1220 H48 Q40,1220 40,1212 V848 Q40,840 48,840 Z M48,1240 H552 Q560,1240 560,1248 V1612 Q560,1620 552,1620 H48 Q40,1620 40,1612 V1248 Q40,1240 48,1240 Z"/>
+  <path d="M44,28 H556 Q572,28 572,44 V416 Q572,432 556,432 H44 Q28,432 28,416 V44 Q28,28 44,28 Z" fill="none" stroke="#8068ff" stroke-width="3" stroke-dasharray="10 10" opacity=".6"/>
+  <path d="M44,428 H556 Q572,428 572,444 V816 Q572,832 556,832 H44 Q28,832 28,816 V444 Q28,428 44,428 Z" fill="none" stroke="#8068ff" stroke-width="3" stroke-dasharray="10 10" opacity=".6"/>
+  <path d="M44,828 H556 Q572,828 572,844 V1216 Q572,1232 556,1232 H44 Q28,1232 28,1216 V844 Q28,828 44,828 Z" fill="none" stroke="#8068ff" stroke-width="3" stroke-dasharray="10 10" opacity=".6"/>
+  <path d="M44,1228 H556 Q572,1228 572,1244 V1616 Q572,1632 556,1632 H44 Q28,1632 28,1616 V1244 Q28,1228 44,1228 Z" fill="none" stroke="#8068ff" stroke-width="3" stroke-dasharray="10 10" opacity=".6"/>
+  <text x="300.0" y="1725" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="700" letter-spacing="2" fill="#6a4fe8">snapin.</text>
+</svg>
